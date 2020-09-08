@@ -1,0 +1,3 @@
+CREATE DATABASE trainer;
+CREATE USER traineruser WITH PASSWORD 'trainer';
+GRANT ALL PRIVILEGES ON DATABASE trainer TO traineruser;
