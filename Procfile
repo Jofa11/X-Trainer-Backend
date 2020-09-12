@@ -1,0 +1,1 @@
+web: gunicorn trainer_django.wsgi
